@@ -17,3 +17,6 @@ int main()
 }
 
 
+main.c de var ayný dizinde
+baska bir klasör oluþturu musun sadece tek bir .c dosyasý olsun
+tamam hocam deniyim
